@@ -1,0 +1,15 @@
+﻿{
+  "Author": "WildWolf",
+  "Name": "AllaganSync",
+  "Punchline": "Crafting list sync of Allagan nature.",
+  "Description": "Syncing tool for crafting lists in AllaganTools between multiple computers or users.",
+  "Tags": [
+    "crafting",
+    "list",
+    "sync"
+  ],
+  "Changelog": "",
+  "RepoUrl": "https://github.com/wolfcomp/AllaganSync",
+  "ApplicableVersion": "any",
+  "LoadPriority": 0
+}
